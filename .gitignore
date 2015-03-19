@@ -8,5 +8,7 @@
 /log
 /tmp
 /shared/*
+/Puppetfile.lock
 !/shared/README.md
 /vendor/gems/
+/vendor/puppet/cache/
