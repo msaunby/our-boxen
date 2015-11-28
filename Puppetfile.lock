@@ -124,8 +124,10 @@ GITHUBTARBALL
     module_data (0.0.4)
 
 DEPENDENCIES
+  atom (= 1.0.0)
   boxen (= 3.11.0)
   brewcask (= 0.0.6)
+  chrome (= 1.2.0)
   dnsmasq (= 2.0.1)
   firefox (= 1.2.3)
   foreman (= 1.2.0)
@@ -135,6 +137,7 @@ DEPENDENCIES
   homebrew (= 1.13.0)
   hub (= 1.4.1)
   inifile (= 1.4.1)
+  iterm2 (= 1.2.4)
   module_data (= 0.0.4)
   nginx (= 1.6.0)
   nodejs (= 5.0.0)
